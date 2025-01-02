@@ -15,8 +15,6 @@ RUN go install
 # RUN go build -o main .
 RUN CGO_ENABLED=0 GOOS=linux GOARCH=amd64 go build -a -installsuffix cgo -o main .
 
-
-
 RUN ls
 ENV PORT=8080
 EXPOSE 8080
