@@ -1,2 +1,2 @@
-# NeuCalendar
+# NeuCalendar 1.0
 #
