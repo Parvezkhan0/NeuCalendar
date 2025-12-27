@@ -3,6 +3,7 @@ export default function LoadingPage(): JSX.Element {
     <div className="flex flex-row items-center justify-center">
       <span className="loading loading-infinity loading-lg text-success"></span>
       <span>Loading...</span>
+      <H1>hell</H1>
     </div>
   );
 }
