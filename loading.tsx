@@ -4,7 +4,7 @@ export default function LoadingPage(): JSX.Element {
       <span className="loading loading-infinity loading-lg text-success"></span>
       <span>Loading...</span>
       <H1>hell</H1>
-    </div>
+    </div>{}
   );
 }
 }
